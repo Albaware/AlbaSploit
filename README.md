@@ -1,7 +1,7 @@
 # AlbaSploit
 Created By Alba#4770
 
-AlbaSploit is a FREE roblox executor created on the 2nd October 2022 as an experiment, where it will hopefully grow into a roblox executor for everyone to enjoy!
+AlbaSploit is a FREE roblox executor created on the 10/2/22 as an experiment, where it will hopefully grow into a roblox executor for everyone to enjoy!
 # Instructions
 - Download the latest release
 - Run the installer
