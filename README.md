@@ -1,5 +1,5 @@
 # AlbaSploit
-Created By Alba#4770
+Created By Mitlit#0001
 
 AlbaSploit is a FREE roblox executor created on 10/2/22 as an experiment, where it will hopefully grow into a roblox executor for everyone to enjoy!
 # Instructions
@@ -13,6 +13,14 @@ AlbaSploit is a FREE roblox executor created on 10/2/22 as an experiment, where 
 Disable your anti-virus/firewall if you can't download! Due to the nature of exploits(Obfuscation, game manipulation, etc), they're falsely marked as viruses/malware.
 
 This is completely safe; run it in a sandbox or a VM if you don't trust me.
+
+# Reviews
+
+If you want your video of the executor displayed here please let me know on discord! (Mitlit#0001)
+
+# Credits
+
+This executor uses the WRDAPI, But was designed by Albaware.
 
 # License
 Copyright (c) ThatAlbaPerson. All Rights Reserved.
