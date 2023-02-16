@@ -4,7 +4,7 @@ Created By Mitlit#0001
 AlbaSploit is a FREE roblox executor created on 10/2/22 as an experiment, where it will hopefully grow into a roblox executor for everyone to enjoy!
 # Instructions
 - Download the latest release
-- Run the installer
+- Extract the ZIP | Or Installer if you are using a older version
 - Open the folder it just created
 - Run the file "AlbaSploit.exe"
 - Get your key
