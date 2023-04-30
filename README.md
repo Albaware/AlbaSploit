@@ -10,9 +10,6 @@ AlbaSploit is a FREE roblox executor created on 10/2/22 as an experiment, where 
 - Get your key
 - Enjoy!
 
-# Warning
-This executor is no longer being actively worked on, From what we understand it still works but please use caution while "exploiting".
-
 # AV Notice
 Disable your anti-virus/firewall if you can't download! Due to the nature of exploits(Obfuscation, game manipulation, etc), they're falsely marked as viruses/malware.
 
